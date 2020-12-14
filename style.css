@@ -3,6 +3,15 @@ body {
   background-color: rgb(39, 39, 39);
 
 }
+ h1 {
+    color: yellow;
+    font-size: 5rem;
+    text-align: center;
+    padding: 10%;
+    font-family: 'Prompt', sans-serif;;
+
+}
+
 .img {
   width: 5%;
   float: left;
