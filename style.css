@@ -39,3 +39,8 @@ li {
   color: white;
   list-style: none;
 }
+li:hover {
+  color: grey;
+  cursor: pointer;
+  transition: .2s;
+}
