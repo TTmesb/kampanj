@@ -40,7 +40,11 @@ li {
   list-style: none;
 }
 li:hover {
-  color: grey;
+  color: yellow;
   cursor: pointer;
-  transition: .2s;
+  opacity: 0.8;
+  transition: 0.2s;
+}
+.text {
+  margin-top: 16rem;
 }
