@@ -1,20 +1,47 @@
 body {
   margin: 0;
   background-color: rgb(39, 39, 39);
-
+  display: flex;
+  flex-direction: column;
+  
 }
- h1 {
+.rubrik {
+  color: yellow;
+  font-size: 4 rem;
+  text-align: left;
+  width: 90%;
+  margin: 0 auto;
+  padding: 10% 5% 5% 5%;
+  font-family: 'Prompt', sans-serif;
+}
+.titel {
     color: yellow;
-    font-size: 5rem;
+    font-size: 2.5rem;
     text-align: center;
-    padding: 10%;
-    font-family: 'Prompt', sans-serif;;
-
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 15%;
+    font-family: 'Prompt', sans-serif;
+}
+.h-100 {
+  height: 100%;
 }
 
+
+a {
+  text-decoration: none;
+  color:white;
+}
 .img {
-  width: 5%;
-  float: left;
+  width: 100%;
+  margin: 0 auto;
+  position: fixed;
+  display: block;
+}
+.home {
+  margin-top: 8rem;
+  padding-top: 8rem;
+  color: #1D689A;
 }
 .nav {
   width: 100%;
@@ -23,7 +50,6 @@ body {
   display: block;
   background-color: rgb(3, 3, 3);
   border-bottom: rgb(255, 217, 0)  5px solid;
-  top: 0;
 }
 
 ul {
@@ -36,15 +62,25 @@ li {
   padding-left: 11rem;
   font-family: 'Prompt', sans-serif;;
   font-size: 2rem;
-  color: white;
   list-style: none;
 }
-li:hover {
+a:hover {
   color: yellow;
   cursor: pointer;
   opacity: 0.8;
   transition: 0.2s;
 }
+.dtext {
+  margin: 0 auto;
+  padding: 5%;
+  font-family: 'Prompt', sans-serif;
+  color: #D7263D;
+  font-size: 1.5rem;
+}
 .text {
-  margin-top: 16rem;
+  
+  display: block;
+  padding: 5%;
+  margin: 0 auto;
+  color: #1D689A;
 }
