@@ -49,12 +49,13 @@ nav {
   border-bottom: rgb(255, 217, 0)  5px solid;
 }
 
-ul {
+nav ul {
   justify-content: space-between;
   display: flex;
   float: right;
+  font-size: 1.5rem;
 }
-li {
+nav ul li {
   padding-top: .8rem;
   padding-left: 11rem;
   font-family: 'Prompt', sans-serif;;
