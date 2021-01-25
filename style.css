@@ -82,3 +82,13 @@ a:hover {
   margin: 0 auto;
   color: #1D689A;
 }
+div ul li {
+  font-size: 2rem;
+  color: white;
+  font-family: 'Prompt', sans-serif;
+}
+div ul {
+  display: flex;
+  justify-content: space-between;
+  color: #D7263D;
+}
