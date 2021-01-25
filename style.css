@@ -7,7 +7,7 @@ body {
 }
 .rubrik {
   color: yellow;
-  font-size: 4 rem;
+  font-size: 4rem;
   text-align: left;
   width: 90%;
   margin: 0 auto;
@@ -32,28 +32,25 @@ a {
   text-decoration: none;
   color:white;
 }
-.img {
-  width: 100%;
-  margin: 0 auto;
-  position: fixed;
-  display: block;
-}
+
 .home {
-  margin-top: 8rem;
-  padding-top: 8rem;
+  margin-top: 10rem;
+  padding-top: 10rem;
   color: #1D689A;
 }
-.nav {
+nav {
+  left: 0;
+  right: 0;
   width: 100%;
   margin: 0 auto;
   position: fixed;
-  display: block;
+  display: flex;
   background-color: rgb(3, 3, 3);
   border-bottom: rgb(255, 217, 0)  5px solid;
 }
 
 ul {
-  padding: .5rem 4rem .5rem 4rem;
+  justify-content: space-between;
   display: flex;
   float: right;
 }
