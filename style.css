@@ -88,7 +88,7 @@ div ul li {
   font-family: 'Prompt', sans-serif;
 }
 div ul {
-  display: flex;
   justify-content: space-between;
   color: #D7263D;
+  margin: auto 5%;
 }
