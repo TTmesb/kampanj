@@ -83,6 +83,7 @@ a:hover {
   color: #1D689A;
 }
 div ul li {
+  list-style: none;
   font-size: 2rem;
   color: white;
   font-family: 'Prompt', sans-serif;
