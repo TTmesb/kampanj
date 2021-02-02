@@ -70,7 +70,7 @@ nav ul li {
 
 }
 a:hover {
-  color: yellow;
+  color: #fbff2d;
   cursor: pointer;
   opacity: 0.8;
   transition: 0.2s;
