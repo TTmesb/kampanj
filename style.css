@@ -20,8 +20,7 @@ body {
   padding-left: 1rem;
 }
 .titel {
-    color: #FFFFFF;
-    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #fffb2d 0px 0px 20px, #fbff2d 0px 0px 30px, #fbff2d 0px  0px 40px, #ffd82d 0px 0px 50px, #fff12d 0px 0px 75px;
+    color: yellow;
     font-size: 2rem;
     text-align: center;
     width: 90%;
@@ -36,7 +35,7 @@ a {
   text-decoration: none;
   color:white;
 }
-.home {
+.footer {
   padding: 0 0 0 0;
   margin: 0 0 0 0;
   position: fixed;
@@ -44,18 +43,13 @@ a {
   font-family: 'Prompt', sans-serif;
   font-size: .7rem;
 }
-.footer {
-  margin-top: 10rem;
-  padding-top: 10rem;
-  color: #000000;
-}
+
 
 nav {
   left: 0;
   right: 0;
   width: 100%;
   margin: 0 auto;
-  position: fixed;
   display: flex;
   background-color: rgb(3, 3, 3);
   border-bottom: rgb(255, 217, 0)  5px solid;
@@ -95,14 +89,49 @@ a:hover {
   margin: 0 auto;
   color: #1D689A;
 }
-div ul li {
+.a {
+  list-style: none;
+  font-size: 1.5rem;
+  color: #D7263D;
+  margin: auto 10%;
+  font-family: 'Prompt', sans-serif;
+}
+.q {
   list-style: none;
   font-size: 1.5rem;
   color: white;
-  
+  margin: auto 5%;
   font-family: 'Prompt', sans-serif;
 }
-div ul {
-  color: #D7263D;
-  margin: auto 5%;
+@media(max-width: 375px) { 
+  .titel {
+    font-size: 1rem;
+    padding-top: 45%;
+  }
+  .logo {
+    height: 3rem;
+    float: left;
+    padding-top: .1rem;
+    padding-left: .1rem;
+  }
+  nav {
+    left: 0;
+    right: 0;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    background-color: rgb(3, 3, 3);
+    border-bottom: rgb(255, 217, 0)  5px solid;
+    
+  }
+  nav ul {
+    width: 100%;
+    font-size: .3rem;
+  }
+  nav ul li {
+    padding: .2rem .2rem .2rem .2rem;
+    font-family: 'Prompt', sans-serif;;
+    font-size: 2rem;
+    list-style: none;
+  }
 }
