@@ -7,7 +7,7 @@ Vårat syfte var att göra en webbsida baserad på vårat kampanjarbete på enge
 
 ## Bakgrund
 Jag tog en titt på hur våran grundlayout såg ut på [Figma](https://www.figma.com/file/xVuS8ycsVTNTYHvGsYu0ai/olearys.com), efter det försökte jag konstruera hemsidan så lika som möjligt vilket jag tyckte gick bra. Jag valde att ha kvar temat och ändra layouten smått o sätta in olika sidor istället för allt på samma ställe. 
-Min process var att bygga små delar för att sedan sätta ihop de på rätt ställe och anpassa de till varandra så det såg bra ut. Jag valde också att göra en hemsida s0om är väldigt simpel och användarvänlig istället för att gå för någon galen design som kanske ser väldigt snyggt ut men inte så användarvänlig. Detta va bättre tyckte jag eftersom våran målgrupp är till alla förutom småbarn.
+Min process var att bygga små delar för att sedan sätta ihop de på rätt ställe och anpassa de till varandra så det såg bra ut. Jag valde också att göra en hemsida s0om är väldigt simpel och användarvänlig istället för att gå för någon galen design som kanske ser väldigt snyggt ut men inte så användarvänlig. Detta va bättre tyckte jag eftersom våran målgrupp är till alla förutom småbarn. Förutsättningarna för projektet var att vi skulle få fram en hemsida som visade vår kampanj. Den skulle motivera folk till att lyssna på oss och även få information om det problem vi valde.
 
 
 ## Positiva erfarenheter
