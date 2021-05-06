@@ -1,6 +1,5 @@
 # Post Mortem Kampanj
 Emil Åberg 2021/02/08
-
 ## Inledning
 Vårat syfte var att göra en webbsida baserad på vårat kampanjarbete på engelskan. Vi skulle planera i grupper och få ut en grundlayout för att sedan göra hemsidan var för sig. 
 
@@ -19,3 +18,5 @@ Det som var negativt med mitt projekt var att jag inte fick mobil versionen att 
 
 ## Sammanfattning
 Jag kunde använda mina tidigare erfarenheter för att kunna planera och konstruera hemsidan ganska så snabbt, sedan lärde jag mig mer om hur man strukturerade css på ett enkelt sätt samt hur man anpassade navbars bättre. Jag är nöjd med min produkt och den blev som jag hade tänkt mig, man hade kunnat gjort sidan mer avancerad och lägga till mer funktioner på hemsidan. I helhet tycker jag projektet gick bra och min produkt stämmer in på grundlayouten samt hur jag ville ha den
+
+Validering av CSS och HTML och jag hade inga fel (2021-05-06)
