@@ -19,4 +19,13 @@ Det som var negativt med mitt projekt var att jag inte fick mobil versionen att 
 ## Sammanfattning
 Jag kunde använda mina tidigare erfarenheter för att kunna planera och konstruera hemsidan ganska så snabbt, sedan lärde jag mig mer om hur man strukturerade css på ett enkelt sätt samt hur man anpassade navbars bättre. Jag är nöjd med min produkt och den blev som jag hade tänkt mig, man hade kunnat gjort sidan mer avancerad och lägga till mer funktioner på hemsidan. I helhet tycker jag projektet gick bra och min produkt stämmer in på grundlayouten samt hur jag ville ha den
 
+Jag har nu gjort ett användarbarhetstest. Att få infon om vad våran organisation och vad vi ville få fram var tydligt och man kunde navigera på sidan utan några större problem. Ett problem var att det inte fanns någon media på hemsidan så man kunde inte se hur maten såg ut, jag har nu fixat detta och lagt in exempel bilder på första sidan om man scrollar. Liten hemsida med inte så mycket info men man kunde förstå vad som den handla om. Designen hade kunnats utvecklats, den var inte så trevlig eller vänlig att kolla på
+
+Jag kollade även igenom hemsidan med WAVE, jag fick inte upp några errors. Jag fick upp contrast error vilket jag inte tycker att jag ska ändra, meningen med texten är att den ska vara svår att se och inte ta bort något fokus från hemsidan, den fyller heller inte någon funktion till hemsidan. 
+![image](https://user-images.githubusercontent.com/60389458/117295804-92f68180-ae74-11eb-8cbf-fb8028739cf6.png)
+
 Validering av CSS och HTML och jag hade inga fel (2021-05-06)
+![image](https://user-images.githubusercontent.com/60389458/117296020-db15a400-ae74-11eb-98c2-b6002388e67e.png)
+![image](https://user-images.githubusercontent.com/60389458/117296072-eb2d8380-ae74-11eb-8dd5-cd5b555e7aac.png)
+
+
